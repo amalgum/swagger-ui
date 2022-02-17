@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-17T19:00:18.570Z" agent="5.0 (Windows)" etag="l81AVAiVg_fpygCbeVRu" version="15.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-17T19:13:32.613Z" agent="5.0 (Windows)" etag="_7ZEEWwBFSLC3nExUW1T" version="15.5.2" type="github">
   <diagram id="4rU8gYA564SKTLNEH4Lg" name="Page-1">
     <mxGraphModel dx="782" dy="364" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -78,10 +78,10 @@
           <mxGeometry x="128.3" y="400" width="54.45" height="57" as="geometry" />
         </mxCell>
         <mxCell id="SYhHrqKnr2Nzoqkczw36-35" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
-          <mxGeometry x="560" y="70" width="210" height="132.3" as="geometry" />
+          <mxGeometry x="540" y="77.2" width="210" height="132.3" as="geometry" />
         </mxCell>
         <mxCell id="SYhHrqKnr2Nzoqkczw36-37" value="Serveur SaaS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="630" y="120.75" width="60" height="30" as="geometry" />
+          <mxGeometry x="610" y="128.35" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SYhHrqKnr2Nzoqkczw36-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SYhHrqKnr2Nzoqkczw36-43" target="SYhHrqKnr2Nzoqkczw36-49">
           <mxGeometry relative="1" as="geometry" />
@@ -100,8 +100,25 @@
         <mxCell id="SYhHrqKnr2Nzoqkczw36-44" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#3B8DF1;shape=mxgraph.gcp2.files" vertex="1" parent="SYhHrqKnr2Nzoqkczw36-43">
           <mxGeometry x="138.14000000000004" y="10" width="61.86" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="SYhHrqKnr2Nzoqkczw36-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SYhHrqKnr2Nzoqkczw36-49" target="SYhHrqKnr2Nzoqkczw36-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SYhHrqKnr2Nzoqkczw36-49" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/actnia-ecommerce-delivery/24/delivery-in-128.png" vertex="1" parent="1">
           <mxGeometry x="140" y="710" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SYhHrqKnr2Nzoqkczw36-54" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="750" width="120" height="100" as="geometry">
+            <mxRectangle x="270" y="680" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SYhHrqKnr2Nzoqkczw36-53" value="" style="image;html=1;image=img/lib/clip_art/finance/Safe_128x128.png" vertex="1" parent="SYhHrqKnr2Nzoqkczw36-54">
+          <mxGeometry x="30" y="30" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SYhHrqKnr2Nzoqkczw36-58" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#2072B8;rotation=120;" vertex="1" parent="SYhHrqKnr2Nzoqkczw36-54">
+          <mxGeometry x="70" width="25" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="SYhHrqKnr2Nzoqkczw36-59" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="209.5" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
