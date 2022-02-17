@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-17T19:35:14.616Z" agent="5.0 (Windows)" etag="fRlyj-NXaEKhH4kkpBsU" version="15.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-17T19:42:34.742Z" agent="5.0 (Windows)" etag="Scdbv6RO2RO80FYeT7sc" version="15.5.2" type="github">
   <diagram id="4rU8gYA564SKTLNEH4Lg" name="Page-1">
     <mxGraphModel dx="782" dy="364" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -80,8 +80,8 @@
         <mxCell id="SYhHrqKnr2Nzoqkczw36-35" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
           <mxGeometry x="540" y="77.2" width="210" height="132.3" as="geometry" />
         </mxCell>
-        <mxCell id="SYhHrqKnr2Nzoqkczw36-37" value="Serveur SaaS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="128.35" width="60" height="30" as="geometry" />
+        <mxCell id="SYhHrqKnr2Nzoqkczw36-37" value="&lt;div&gt;Serveur SaaS&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&quot;ERP hébergé &lt;b style=&quot;font-weight: normal&quot; id=&quot;docs-internal-guid-63392330-7fff-db6f-d3ec-9d7ada13f3ff&quot;&gt;&lt;span style=&quot;font-size: 12pt ; font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline&quot;&gt;&quot; &lt;/span&gt;&lt;/b&gt; &lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="597.5" y="128.35" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SYhHrqKnr2Nzoqkczw36-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SYhHrqKnr2Nzoqkczw36-43" target="SYhHrqKnr2Nzoqkczw36-49">
           <mxGeometry relative="1" as="geometry" />
@@ -188,6 +188,9 @@
         </mxCell>
         <mxCell id="SYhHrqKnr2Nzoqkczw36-68" value="" style="shape=mxgraph.signs.tech.computer;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="356" y="560" width="58" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SYhHrqKnr2Nzoqkczw36-74" value="&lt;div&gt;Logiciels&amp;nbsp; &quot;faits-maison&quot; hébergés sur les serveurs&lt;/div&gt;&lt;div&gt;&amp;nbsp; &lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="435" y="370" width="145" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
